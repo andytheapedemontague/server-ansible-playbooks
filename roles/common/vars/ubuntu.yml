@@ -6,4 +6,4 @@ common:
     - vim
     - unzip
     - software-properties-common 
-    - python-software-properties
+
